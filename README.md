@@ -2,3 +2,5 @@
 
 output("text")
 output("----")
+output("1111")
+output("2222")
